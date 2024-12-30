@@ -1,4 +1,4 @@
-## HOla, soy Juan Antonio Martinez Roman 👋
+## Hola, soy Juan Antonio Martinez Roman 👋
 
 Desarrollador Full Stack con más de 10 años de experiencia en la creación de soluciones digitales. Experto en tecnologías
 modernas como Node.js, React, AWS y Laravel. Enfocado en desarrollar sistemas escalables que incrementen la
